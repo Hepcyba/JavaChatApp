@@ -18,14 +18,14 @@ A real-time, multi-user chat app built with Java Sockets, multithreading, and a 
 ---
 
 ## 🗂️ Project Structure
-JavaChatApp/
+``JavaChatApp/
 ├── client/
 │ └── Client.java
 ├── server/
 │ ├── Server.java
 │ └── ClientHandler.java
 ├── .gitignore
-└── README.md
+└── README.md``
 ## 🖼️ Screenshots
 
 [chat1](https://github.com/user-attachments/assets/dae6276c-7bbf-4227-8a38-6a7e92a1dc56)
