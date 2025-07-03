@@ -28,6 +28,16 @@ JavaChatApp/
 ├── .gitignore
 └── README.md
 ---
+## 🖼️ Screenshots
+
+[chat1](https://github.com/user-attachments/assets/dae6276c-7bbf-4227-8a38-6a7e92a1dc56)
+[chat2](https://github.com/user-attachments/assets/89c13335-234a-4c54-a4fd-56ca3d8dccd5)
+
+🧰 Built With
+Java 17+
+Java Socket Programming
+Java Swing GUI
+Java Multithreading
 
 ## 🛠️ How to Run
 
@@ -49,16 +59,7 @@ java Client
 
 katy: Hello everyone!
 john: @katy Hi Katy!
-🧰 Built With
-Java 17+
 
-Java Socket Programming
-
-Java Swing GUI
-
-Java Multithreading
-
-File I/O (for chat logging)
 👤 Developer
 G. Hepcyba
 B.Tech CSE | VNRVJIET '26
