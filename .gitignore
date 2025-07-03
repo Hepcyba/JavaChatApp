@@ -1,0 +1,16 @@
+# Ignore compiled Java classes
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore IDE folders
+.idea/
+.vscode/
+
+# Ignore chat logs
+chatlog-*.txt
+
